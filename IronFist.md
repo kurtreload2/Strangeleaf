@@ -42,11 +42,12 @@ Empowered by the bracers, Kaelen became the Iron Fist. He fought with renewed vi
 
 #### The Climactic Battle
 
-At Baldur’s Gate, Kaelen sensed the disturbance and recognized the threat Malcavius posed. Drawn by this awareness and his mission to protect the world from mystical threats, Kaelen intervened. He arrived at the Baldur’s Gate Sanctum, where Dr. Stephen Strangeleaf was engaged in a desperate duel with Malcavius’s forces.
+At Baldur’s Gate, Kaelen sensed the disturbance and recognized the threat to be Malcavius. Drawn by this awareness and his mission to protect the world from mystical threats, Kaelen intervened. He arrived at the Baldur’s Gate Sanctum, where Dr. Stephen Strangeleaf was engaged in a desperate duel with Malcavius’s forces.
 
 Strangeleaf wielded the Eye of Agamotto, manipulating time to create a temporal loop, while Kaelen used his Iron Fist to strike down the zealots. Together, they faced Malcavius and his lieutenants in a battle that shook the foundations of the sanctum. Amidst the battle, Kaelen fought valiantly, his chi-powered strikes delivering devastating blows to the enemies. However, the intensity of the fight and the overwhelming dark magic took their toll. Kaelen was mortally wounded, collapsing amidst the chaos.
 
 #### Resurrection
+
 Witnessing his ally’s fall, Strangeleaf used the Eye of Agamotto to manipulate time, creating a temporal loop that gave him the chance to alter the outcome of the battle. Strangeleaf cleverly used each cycle to gather information and outwit Zarathor. Eventually, he managed to banish Zarathor and scatter the zealots. This victory within the temporal loop allowed Strangeleaf to restore the timeline, preventing the deaths of Kaelen and their allies.
 
 #### A Shared Destiny
