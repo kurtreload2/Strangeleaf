@@ -1,6 +1,6 @@
 #### Kaelen Firehand, the Ironfist Monk TL;DR
 #### Early Life and Tragedy
-Kaelen Firehand was born in Neverwinter to a blacksmith father and healer mother. Orphaned at a young age when a fire claimed his parents' lives, Kaelen survived on the harsh streets of Neverwinter. His resilience and fighting spirit caught the attention of Master Jian, a monk from the hidden city of Shao-Tun in the Spine of the World mountains.
+Kaelen Firehand, a half-elf, was born in Neverwinter to a blacksmith father and healer mother. Orphaned at a young age when a fire claimed his parents' lives, Kaelen survived on the harsh streets of Neverwinter. His resilience and fighting spirit caught the attention of Master Jian, a monk from the hidden city of Shao-Tun in the Spine of the World mountains.
 #### Training in Shao-Tun
 Adopted by Master Jian, Kaelen journeyed to Shao-Tun, where he was trained in ancient martial arts and learned to harness his inner chi. The monks taught him to transform his grief and anger into a source of strength. Shao-Tun had a historical connection with Ithil-Tor, a sanctuary of wizards who were once monks but diverged to master arcane magic.
 #### The Dark Threat
