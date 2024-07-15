@@ -5,9 +5,13 @@ The Bracers of the Iron Fist are ancient and intricately crafted artifacts made 
 
 #### Properties:
 Chi Channeling: The bracers allow the wearer to channel their inner chi into powerful, fiery strikes. When activated, the wearer's fists glow with a fiery energy that can shatter stone and deliver devastating blows.
+
 Enhanced Strength and Agility: The bracers enhance the wearer's physical abilities, increasing their strength and agility.
+
 Elemental Affinity: The wearer can harness elemental energy, allowing them to perform feats such as controlling flames or resisting fire damage.
+
 Healing Touch: The bracers grant the wearer limited healing abilities, allowing them to mend wounds with a touch.
+
 Bonded Artifact: The bracers are bonded to the wearer once they accept their power, making them inseparable and unusable by others.
 
 
