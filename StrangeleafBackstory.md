@@ -2,7 +2,7 @@
 
 #### Early Life and Medical Career
 
-Dr. Stephen Strangeleaf, a high elf, was born and raised in the vibrant city of Baldur's Gate. His elven mother, a skilled herbalist, and his human father, a knowledgeable scholar, instilled in him a deep respect for both nature and learning. From a young age, Strangeleaf showed an exceptional aptitude for the healing arts. He pursued a career as a physician and alchemist, dedicating himself to the study of anatomy, physiology, and the medicinal properties of plants and minerals.
+Dr. Stephen Strangeleaf, a human, was born and raised in the vibrant city of Baldur's Gate. His mother, a skilled herbalist, and his father, a knowledgeable scholar, instilled in him a deep respect for both nature and learning. From a young age, Strangeleaf showed an exceptional aptitude for the healing arts. He pursued a career as a physician and alchemist, dedicating himself to the study of anatomy, physiology, and the medicinal properties of plants and minerals.
 
 Strangeleaf’s practice required exceptional dexterity and precision. He performed delicate surgeries, stitched wounds with unparalleled skill, and concocted precise alchemical remedies. His steady hands were his greatest asset, allowing him to perform intricate procedures that saved countless lives. Nobles and commoners alike sought his expertise, and his practice thrived. His blend of traditional medicine and alchemical science made him one of the most respected doctors in Baldur's Gate.
 
