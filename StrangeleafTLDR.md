@@ -1,6 +1,6 @@
 #### Dr. Stephen Strangeleaf's Backstory TLDR
 #### Early Life and Medical Career
-Dr. Stephen Strangeleaf, a high elf from Baldur's Gate, was a renowned physician and alchemist known for his exceptional surgical skills. His career was cut short when a carriage accident severely damaged his hands. Unable to find a cure, he journeyed to Ithil-Tor, a hidden sanctuary in the Spine of the World mountains, where he met the Archmage Supreme.
+Dr. Stephen Strangeleaf, a human from Baldur's Gate, was a renowned physician and alchemist known for his exceptional surgical skills. His career was cut short when a carriage accident severely damaged his hands. Unable to find a cure, he journeyed to Ithil-Tor, a hidden sanctuary in the Spine of the World mountains, where he met the Archmage Supreme.
 #### Arcane Apprenticeship
 Under her tutelage, Strangeleaf learned the arcane arts, compensating for his injured hands with willpower and intellect. He became involved in a conflict with Malcavius, a rogue wizard attempting to summon Zarathor, a powerful entity from the Dark Dimension. During battles to protect magical sanctums, Strangeleaf acquired the Cloak of Levitation and later the Eye of Agamotto.
 #### The Climactic Battle
